@@ -1,16 +1,12 @@
-# quran
+# quran_app
 
-A new Flutter project.
+An application to read and listen to the Holy Quran
+It contains more than 15 reciters such as Mishary Al-Afasy, Abdel Baset Abdel Samad, and more.
 
-## Getting Started
+# Features:
+  - Read and listen to the surahs of the Quran.
+  - Listen to the entire Quran.
+  - Download the audio source of the Quran surahs for faster download next time.
+  - Audio playing in background.
+  - Notification audio controller.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
