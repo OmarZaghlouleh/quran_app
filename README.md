@@ -1,4 +1,4 @@
-# quran_app
+# Holy Quran App
 
 An application to read and listen to the Holy Quran
 It contains more than 15 reciters such as Mishary Al-Afasy, Abdel Baset Abdel Samad, and more.
